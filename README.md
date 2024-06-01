@@ -1,1 +1,4 @@
-# Simple scoreboard with js and bootstrap
+# scoreboard with js and bootstrap
+- counter Point
+- winPoint
+- Reset point display
